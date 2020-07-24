@@ -6,6 +6,13 @@
 # Need to excute with root privilege
 #-----------------------------------
 
+
+# NOTICE!!!!!!!!!
+# This script is so WEAK and NOT FINISHED
+# I'm looking for a Way sorting for whether is necessary processes or not
+# But you know Linux is multi-users system so I can't find the proper way to dishtingush which process is good and need
+# If someone else has a good idea plz contact me
+
 _ERROR_HANDLER=0    # Error Handler using exit statement
 
 echo ""
